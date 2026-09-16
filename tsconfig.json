@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "es2019", "module": "commonjs", "moduleResolution": "node", "jsx": "react",
+    "declaration": true, "outDir": "lib", "rootDir": "src", "strict": true, "esModuleInterop": true,
+    "skipLibCheck": true, "types": [], "lib": ["es2019"]
+  },
+  "include": ["src"]
+}
